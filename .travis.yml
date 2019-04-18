@@ -18,4 +18,4 @@ after_success:
   - git config --global user.name "Travis CI"
   - git add .
   - git commit -m 'Add files via upload'
-  - git push https://github.com/CoderTonyChan/libpku.git master -f
+  - git push https://${DEPLOY_TOKEN}github.com/CoderTonyChan/libpku.git master -f
