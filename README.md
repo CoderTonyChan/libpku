@@ -1,5 +1,7 @@
-# libpku - 贵校课程资料民间整理
+# libpku
 
-## Preface
+## notice
 
-https://github.com/lib-pku/libpku
+inspired by [libpku](https://github.com/lib-pku/libpku)
+
+Practicing travis and git.
