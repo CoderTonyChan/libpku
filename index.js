@@ -34,20 +34,20 @@ let begin = `<html>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <title>libpku - 贵校课程资料民间整理</title>
-<meta property="og:url" content="https://lib-pku.github.io/" />
-<meta property="og:site_name" content="lib-pku.github.io" />
-<link rel="canonical" href="https://lib-pku.github.io/" />
+<meta property="og:url" content="https://blog.tonystudio.ml/libpku/" />
+<meta property="og:site_name" content="blog.tonystudio.ml/libpku" />
+<link rel="canonical" href="https://blog.tonystudio.ml/libpku" />
 <link rel="stylesheet" href="assets/css/index.css">
 </head>
 <body>
   <header>
   <div class="inner">
     <br>
-    <a href="https://lib-pku.github.io/">
+    <a href="https://blog.tonystudio.ml/libpku/">
       <h2>libpku - 贵校课程资料民间整理</h2>
     </a>
     <h2></h2>
-    <a href="https://github.com/lib-pku/libpku" class="button"><small>Fork this on</small> GitHub</a>
+    <a href="https://github.com/CoderTonyChan/libpku" class="button"><small>Fork this on</small> GitHub</a>
   </div>
   </header>
   <div id="content-wrapper">
