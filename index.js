@@ -4,7 +4,8 @@ const tree = dirTree(".", {
   extensions: /^((?!js).)*$/
 });
 
-let prefix = `https://github.com/lib-pku/libpku/raw/master/`;
+// let prefix = `https://github.com/lib-pku/libpku/raw/master/`;
+let prefix = `https://github.com/CoderTonyChan/libpku/raw/master/`;
 function solve(e, depth) {
   let s = "";
   let res = [];
