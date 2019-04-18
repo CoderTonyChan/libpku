@@ -11,8 +11,8 @@ before_script:
 script:
   - echo 'XD'
 after_success:
-  - git clone https://github.com/CoderTonyChan/libpku.git
-  - node index.js > libpku/docs/index.html
+  - git clone -b gh-pages https://github.com/CoderTonyChan/libpku.git
+  - node index.js > libpku/index.html
   - cd libpku
   - git config --global user.email "travis@travis-ci.org"
   - git config --global user.name "Travis CI"
